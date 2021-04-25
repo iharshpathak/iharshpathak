@@ -1,5 +1,5 @@
 
-- 👋 Hi, I’m Harsh Pathak (@iharshpathak)
+- 👋 Hi, I’m **Harsh Pathak** (@iharshpathak)
 - 👀 I’m interested in JAVA,C#,C++,etc.
 - 🌱 I’m currently learning JAVA as a primary language.
 - 💞️ I’m looking to collaborate on Open-Source as well as other interesting projects.
