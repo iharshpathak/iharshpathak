@@ -1,7 +1,7 @@
 
 -  Hi, I’m **Harsh Pathak** (@iharshpathak)
--  I’ve worked on Java,Java Fx, Spring Boot,etc.
--  I also work on Python,JavaScript,etc.
+-  I’ve worked on Java, Java Fx, Spring Boot.
+-  I also code in Python and JavaScript.
 -  I’m looking for new opportunities, as well as to collaborate on Open-Source and other interesting projects.
 <!--📫 How to reach me (just ping me via a message)-->
 <!---
