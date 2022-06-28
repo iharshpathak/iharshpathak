@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
  [![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=iharshpathak&show_icons=true&theme=tokyonight)](https://github.com/iharshpathak/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iharshpathak&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/iharshpathak/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iharshpathak&langs_count=8&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/iharshpathak/github-readme-stats)
   
 
 ![iharshpathak](https://user-images.githubusercontent.com/83153262/115984460-c90a4a80-a5c4-11eb-888c-25faeb3542fa.gif)
