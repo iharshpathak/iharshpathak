@@ -14,6 +14,10 @@ You can click the Preview link to take a look at your changes.
 - [HackerRank](https://www.hackerrank.com/iamhp)
 
  **[LinkedIn](https://www.linkedin.com/in/itsharshpathak)**
+ 
+ [![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=iharshpathak)](https://github.com/iharshpathak/github-readme-stats)
+ ![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=iharshpathak&count_private=true)
+ ![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=iharshpathaka&show_icons=true&theme=tokyonight)
   
 
 ![iharshpathak](https://user-images.githubusercontent.com/83153262/115984460-c90a4a80-a5c4-11eb-888c-25faeb3542fa.gif)
