@@ -16,6 +16,7 @@ You can click the Preview link to take a look at your changes.
  **[LinkedIn](https://www.linkedin.com/in/itsharshpathak)**
  
  [![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=iharshpathak&show_icons=true&theme=tokyonight)](https://github.com/iharshpathak/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iharshpathak&langs_count=8&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/iharshpathak/github-readme-stats)
   
 
