@@ -1,6 +1,6 @@
 
 -  Hi, I’m **Harsh Pathak** (@iharshpathak)
--  A CSE (Computer Science & Engineering - 2022) Undergrad.
+-  A CSE (Computer Science & Engineering) Grad.
 -  I’ve **worked on Java, Java Fx, Spring Boot,Angular,TypeScript,My SQL.**
 -  I **also code in Python and JavaScript.**
 -  I’m looking for new opportunities, as well as to collaborate on Open-Source and other interesting projects.
