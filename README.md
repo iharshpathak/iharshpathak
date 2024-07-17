@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 - [LeetCode](https://leetcode.com/iamharshpathak)
 - [HackerRank](https://www.hackerrank.com/iamhp)
 
- **[LinkedIn](https://www.linkedin.com/in/itsharshpathak)**
+ **[LinkedIn](https://www.linkedin.com/in/iharshpathakk)**
  
  [![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=iharshpathak&show_icons=true&theme=tokyonight)](https://github.com/iharshpathak/github-readme-stats)
 
