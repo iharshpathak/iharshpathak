@@ -1,8 +1,8 @@
 
 -  Hi, I’m **Harsh Pathak** (@iharshpathak)
--  A CSE (Computer Science & Engineering) Grad.
--  I’ve **worked on Java, Java Fx, Spring Boot,Angular,TypeScript,My SQL.**
--  I **also code in Python and JavaScript.**
+-  A Freelance FullStack Dev cum UX Designer.
+-  I’ve **worked on MERN Stack,Java, Java Fx, Spring Boot,Angular,TypeScript,My SQL.**
+<!-- -  I **also code in Python and JavaScript.** -->
 -  I’m looking for new opportunities, as well as to collaborate on Open-Source and other interesting projects.
 <!--📫 How to reach me (just ping me via a message)-->
 <!---
