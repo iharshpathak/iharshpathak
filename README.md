@@ -1,7 +1,7 @@
 
 -  Hi, I’m **Harsh Pathak** (@iharshpathak)
--  A Freelance FullStack Dev cum UX Designer.
--  I’ve **worked on MERN Stack,Java, Java Fx, Spring Boot,Angular,TypeScript,My SQL.**
+-  Software Engineer @HMG Technologies.
+-  I’ve **worked on MERN Stack,Java, Node.js, Microsoft Azure, Spring Boot, JavaScript, React,TypeScript, PostgreSQL, My SQL.**
 <!-- -  I **also code in Python and JavaScript.** -->
 -  I’m looking for new opportunities, as well as to collaborate on Open-Source and other interesting projects.
 <!--📫 How to reach me (just ping me via a message)-->
