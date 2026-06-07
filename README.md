@@ -32,12 +32,12 @@ Experienced across the full stack with a strong focus on clean architecture, per
 
 ## Problem Solving 🤖
 
-#### • 355+ Problems Solved on LeetCode
-#### • LeetCode 100 Days Badge (2022)
-#### • 100+ Problems Solved on GeeksforGeeks
-#### • HackerRank Java — 5★
-#### • HackerRank Problem Solving — 3★
-#### • HackerRank Python — 3★
+#### - 355+ Problems Solved on LeetCode
+#### - LeetCode 100 Days Badge (2022)
+#### - 100+ Problems Solved on GeeksforGeeks
+#### - HackerRank Java — 5★
+#### - HackerRank Problem Solving — 3★
+#### - HackerRank Python — 3★
 
 ## Currently 🏗️
 
