@@ -20,7 +20,7 @@ Software Engineer with **3+ years of experience building scalable and production
 
 Experienced across the full stack with a strong focus on clean architecture, performant user experiences, backend systems, cloud deployments, and maintainable code.
 
-## Technical Skills🦾
+## Technical Skills 🦾
 
 
 #### Frontend → React.js • Next.js • TypeScript • Tailwind CSS • Angular
@@ -45,7 +45,7 @@ Experienced across the full stack with a strong focus on clean architecture, per
 #### • Exploring system design and distributed systems
 #### • Working with Spring Boot and Azure cloud services
 #### • Contributing to Open Source when time allows
-#### • Grinding Competitive Programing (Fun Times !)
+#### • Solving algorithms and data structure challenges (CP)
 
 
 ## Connect 🫱🏻‍🫲🏻
