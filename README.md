@@ -66,5 +66,5 @@ Experienced across the full stack with a strong focus on clean architecture, per
 
 ## Perspective 🍃
 
-> I don't chase recognition. I build things that earn it.
+> ***I don't chase recognition. I build things that earn it.***
 
