@@ -57,12 +57,12 @@ Experienced across the full stack with a strong focus on clean architecture, per
   **- 🏆 [HackerRank](https://www.hackerrank.com/iamhp)**
 
 
-
+<!---
 ## GitHub Stats ⭐
 
 [![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=iharshpathak&show_icons=true&theme=tokyonight)](https://github.com/iharshpathak/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iharshpathak&langs_count=8&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/iharshpathak/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iharshpathak&langs_count=8&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/iharshpathak/github-readme-stats) --->
 
 ## Perspective 🍃
 
