@@ -50,11 +50,15 @@ Experienced across the full stack with a strong focus on clean architecture, per
 
 ## Connect 🫱🏻‍🫲🏻
 
-  **- 💼[LinkedIn](https://www.linkedin.com/in/iharshpathakk)**
-  **- ✨[Portfolio](https://dev-harsh.onrender.com)**
-  **- 📧 [mail.devharsh@gmail.com](mailto:mail.devharsh@gmail.com)**
-  **- 💻 [LeetCode](https://leetcode.com/iamharshpathak)**
-  **- 🏆 [HackerRank](https://www.hackerrank.com/iamhp)**
+  **- 💼[LinkedIn](https://www.linkedin.com/in/iharshpathakk)**<br>
+  
+  **- ✨[Portfolio](https://dev-harsh.onrender.com)**<br>
+  
+  **- 📧 [mail.devharsh@gmail.com](mailto:mail.devharsh@gmail.com)**<br>
+  
+  **- 💻 [LeetCode](https://leetcode.com/iamharshpathak)**<br>
+  
+  **- 🏆 [HackerRank](https://www.hackerrank.com/iamhp)**<br>
 
 
 <!---
